@@ -1,15 +1,3 @@
-# Setting Up Single Node Kubernetes Cluster in VirtualBox 
-
-Procedure done with Ubuntu 16.04 
-Virtualbox Machine
-
-Networking Adaptors: NAT, Host-only 
-
-as root
-```
-./k8-install.sh
-```
-
 
 # MapR CSI Storage Plugin
 
